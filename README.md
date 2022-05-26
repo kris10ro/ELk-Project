@@ -87,8 +87,7 @@ Enable service docker on boot
 
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
-
-![TODO: Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
+![screenshot dockerps](https://github.com/kris10ro/ELk-Project/blob/main/diagrams/Screen%20Shot%202022-05-15%20at%204.07.32%20PM.png)
 
 
 ### Target Machines & Beats
